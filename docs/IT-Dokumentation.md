@@ -1,4 +1,4 @@
-# 📘 IT-Dokumentation – [Lernzeit Tracker]
+# 📘 IT-Dokumentation – Lernzeit Tracker
 
 ## 1. 📝 Einleitung
 - Projektname: Lernzeit Tracker
