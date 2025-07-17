@@ -21,7 +21,7 @@ Kurze Beschreibung: Ziel ist es, durch einen Klick auf "Start" und "Ende" seine 
 1. Nach Beendigung des Projekts erstelle ich mit pyinstaller eine .exe Datei. Diese kann im Folder /dist gefunden und ausgeführt werden. Hierzu ist keine Vorinstallation von Python notwendig. 
 
 ```bash
-pyinstaller --onefile lernzeit_tracker.py
+pyinstaller --onefile tracker.py
 ```
 #### Variante 2: 
 
