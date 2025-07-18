@@ -3,7 +3,7 @@
 > ⚠️ Dieses Projekt befindet sich noch in Entwicklung. Einige Bereiche werden schrittweise ergänzt.
 
 ## 💡 Projektidee
-Kurze Beschreibung: Ziel ist es, durch einen Klick auf "Start" und "Ende" seine tägliche Lernzeit berechnen zu lassen. Angezeigt wird die Lernzeit die man seit Nutzung des Tools hat, die Lernzeit vom aktuellen Tag und die durchschnittliche Lernzeit der letzten 7 Tage. Ich lerne aktuell sehr viel, habe jedoch oft das Gefühl, nicht genug geschafft zu haben – selbst nach produktiven Tagen. Dieses Tool soll helfen, objektiv nachzuvollziehen, wie viel tatsächlich gelernt wurde.
+Ziel ist es, durch einen Klick auf "Start" und "Ende" seine tägliche Lernzeit berechnen zu lassen. Angezeigt wird die Lernzeit die man seit Nutzung des Tools hat, die Lernzeit vom aktuellen Tag und die durchschnittliche Lernzeit der letzten 7 Tage. Ich lerne aktuell sehr viel, habe jedoch oft das Gefühl, nicht genug geschafft zu haben – selbst nach produktiven Tagen. Dieses Tool soll helfen, objektiv nachzuvollziehen, wie viel tatsächlich gelernt wurde.
 
 ## 🚀 Features
 - [ ] Lernzeit-Start/Ende per Klick 
